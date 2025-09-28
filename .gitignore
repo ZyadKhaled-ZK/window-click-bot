@@ -1,5 +1,16 @@
-.vs/ 
-*.pyproj 
-*.suo 
-*.json 
-__pycache__/ 
+# Visual Studio 
+.vs/
+*.pyproj
+*.suo
+*.user
+*.sln.docstates
+ 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+ 
+# Build
+dist/
+build/
