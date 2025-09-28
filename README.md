@@ -2,7 +2,7 @@
  
 A simple Python bot that automatically clicks inside a chosen application window. 
  
-## ?? Features 
+##  Features 
 - List all open windows and select one. 
 - Set a click position inside the window. 
 - Auto-click loop until you press Q. 
